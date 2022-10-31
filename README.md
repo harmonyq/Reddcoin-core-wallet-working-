@@ -1,1 +1,1 @@
-Reddcoin Core wallet documentation
+# Reddcoin Core wallet documentation
