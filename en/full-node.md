@@ -36,4 +36,8 @@ Configuration](#network-configuration) section for details.
 
 
 # Running A Full Node
-Support the Bitcoin network by running your own full node
+A full node is a program that fully validates transactions and blocks. Almost all full nodes also help the network by accepting transactions and blocks from other full nodes, validating those transactions and blocks, and then relaying them to further full nodes.
+
+Most full nodes also serve lightweight clients by allowing them to transmit their transactions to the network and by notifying them when a transaction affects their wallet. If not enough nodes perform this function, clients won't be able to connect through the peer-to-peer network---they'll have to use centralized services instead.
+
+Many people and organizations volunteer to run full nodes using spare computing and bandwidth resources---but more volunteers are needed to allow Bitcoin to continue to grow. This document describes how you can help and what helping will cost you.
