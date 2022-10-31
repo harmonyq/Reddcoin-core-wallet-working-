@@ -1,1 +1,1 @@
-# Reddcoin Core wallet documentation
+# Welcome to Reddcoin.com's Codebase
