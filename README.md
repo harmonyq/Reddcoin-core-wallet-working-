@@ -1,0 +1,1 @@
+Reddcoin Core wallet documentation
