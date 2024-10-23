@@ -1,1 +1,1 @@
-# Welcome to Reddcoin.com's Codebase
+# Welcome To Reddcoin.com's Codebase
